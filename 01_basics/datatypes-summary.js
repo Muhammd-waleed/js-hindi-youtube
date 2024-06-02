@@ -33,5 +33,6 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+// all the Non-Primitive DataType has return type of object it include array, function, object and but function is function object 
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
