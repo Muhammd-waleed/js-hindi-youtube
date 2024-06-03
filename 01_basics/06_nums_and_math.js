@@ -1,7 +1,7 @@
-const score = 400
+const score = 400  //this in implicitly defined it is number and its type is number 
 // console.log(score);
 
-const balance = new Number(100)
+const balance = new Number(100)  //this in explicitly defined it is number and its type is object 
 // console.log(balance);
 
 // console.log(balance.toString().length);
@@ -14,7 +14,11 @@ const otherNumber = 123.8966
 const hundreds = 1000000
 // console.log(hundreds.toLocaleString('en-IN'));
 
+ Number.functions // here are lots of thigs that are best for comparative programmer
+
 // +++++++++++++ Maths +++++++++++++++++++++++++++++
+//Math is an object in JS
+
 
 // console.log(Math);
 // console.log(Math.abs(-4));
