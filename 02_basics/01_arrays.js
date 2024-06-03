@@ -24,9 +24,14 @@ const myArr2 = new Array(1, 2, 3, 4)
 // shift is used to remove the elemnet from the start of the array
 // myArr.shift()
 
+
+// questioning methods 
 // console.log(myArr.includes(9));
+
+
 // console.log(myArr.indexOf(3));
 
+// join convert the array into string
 // const newArr = myArr.join()
 
 // console.log(myArr);
@@ -34,6 +39,9 @@ const myArr2 = new Array(1, 2, 3, 4)
 
 
 // slice, splice
+
+// slice just give the value that are beteeen the ragnge 
+// but splice give the value that are between in the range and remove from the original array
 
 console.log("A ", myArr);
 
