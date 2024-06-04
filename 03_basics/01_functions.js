@@ -42,7 +42,7 @@ function loginUserMessage(username = "sam"){
 function calculateCartPrice(val1, val2, ...num1){
     return num1
 }
-
+// Here  we can direct passs array then dont use rest operator
 // console.log(calculateCartPrice(200, 400, 500, 2000))
 
 const user = {
