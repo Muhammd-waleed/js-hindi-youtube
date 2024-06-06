@@ -23,6 +23,7 @@ const temperature = 41
 
 // const balance = 1000
 
+// Implicitly complier understands it is scope without using  curly Braces {}, and must add statemnet terminator at the end bcz it excute in one line
 // if (balance > 500) console.log("test"),console.log("test2");
 
 // if (balance < 500) {
