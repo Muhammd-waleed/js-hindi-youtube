@@ -1,5 +1,5 @@
 const coding = ["js", "ruby", "java", "python", "cpp"]
-
+// Calback function nare those that dont ahve any name 
 // coding.forEach( function (val){
 //     console.log(val);
 // } )
