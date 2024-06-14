@@ -22,12 +22,13 @@ function User(username, loginCount, isLoggedIn){
     this.username = username;
     this.loginCount = loginCount;
     this.isLoggedIn = isLoggedIn
+    
 
     this.greeting = function(){
         console.log(`Welcome ${this.username}`);
 
     }
-
+    // if you dont write here this it implicitly return 
     return this
 }
 
