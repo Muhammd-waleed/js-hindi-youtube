@@ -6,7 +6,8 @@ class User {
     logMe(){
         console.log(`Username: ${this.username}`);
     }
-
+// static KeyWord is used to  stop the acces of the any method and data member via object of the
+    class
     static createId(){
         return `123`
     }
