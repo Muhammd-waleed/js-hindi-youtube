@@ -33,7 +33,7 @@ const myObject = {
     game1: 'NFS',
     game2: 'Spiderman'
 }
-
+ // for of loop not work with objects
 // for (const [key, value] of myObject) {
 //     console.log(key, ':-', value);
     
